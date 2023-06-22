@@ -1,5 +1,5 @@
 - Hi, I’m @cw-johnson . You can call me CJ
-- 
+  
 - I’m interested in ...
    embedded systems programming, digital hardware design for FPGA's, controls systems, DSP, accelerated computing
   
