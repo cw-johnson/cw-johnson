@@ -18,10 +18,10 @@
    - Using AI to identify optimal racing lines/driver input for racing cars
    - Long range, high speed, fully autonomous, fixed wing drone for search and rescue applications
 - I’m looking to collaborate on ...
-   Anything with a catchy repo name
+   - Anything with a catchy repo name
   
 - How to reach me ...
-   Email me at cwjohnsonmakes@gmail.com
+   - Email me at cwjohnsonmakes@gmail.com
    
 
 <!---
