@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @cw-johnson . You can call me CJ
-- 👀 I’m interested in ...
-   embedded programming, digital hardware design with HDL, controls system design, digital signal processing
-- 🌱 I’m currently learning ...
-   Digital Signal Processing with FPGA's, Intro to ASIC/VSLI design, and Computer Architecture
-- 💞️ I’m looking to collaborate on ...
-   Embedded Systems, Aerospace Systems, Digital Signal Processing, and Digital Hardware Design Projects
-- 📫 How to reach me ...
+- Hi, I’m @cw-johnson . You can call me CJ
+- 
+- I’m interested in ...
+   embedded systems programming, digital hardware design for FPGA's, controls systems, DSP, accelerated computing
+  
+- I’m currently learning ...
+   NVIDIA CUDA Programming, openCL, Intel/Altera platform designer & IP
+
+- I consider myself skilled at
+   C for embedded systems programming
+   Accelerating/implementing algorithms in C/C++ using parallelization, machine-specific optimizations, and exploting mathematical structure
+   Verilog and VHDL for FPGA design
+   Computer Architecture and Memory Heiarchies
+   
+- I’m looking to collaborate on ...
+   Anything with a catchy repo name
+  
+- How to reach me ...
    Email me at cwjohnsonmakes@gmail.com
    
 
