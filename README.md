@@ -10,7 +10,6 @@
    - C for embedded systems programming
    - Accelerating/implementing algorithms in C/C++ using parallelization, machine-specific optimizations, and exploting mathematical structure
    - Verilog and VHDL for FPGA design
-   - Computer Architecture and Memory Heiarchies
 
 - I'm currently working on
    - Implementation and Analysis of Popular PRNG Algorithms   
