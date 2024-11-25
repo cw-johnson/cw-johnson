@@ -1,23 +1,25 @@
 - Hi, I’m @cw-johnson . You can call me CJ
   
 - I’m interested in ...
-   - embedded systems programming, digital hardware design for FPGA's, controls systems, DSP, accelerated computing
+   - Artificial intelligence, FPGA digital hardware design, embedded systems programming, controls systems, DSP, parallel, distributed, and heterogeneous computing
   
 - I’m currently learning ...
-   - NVIDIA CUDA Programming, openCL, Intel/Altera platform designer & IP
+   - openCL, oneAPI/SYCL, Large Language Models, 
 
 - I consider myself skilled at...
    - C for embedded systems programming
-   - Accelerating/implementing algorithms in C/C++ using parallelization, machine-specific optimizations, and exploting mathematical structure
+   - Accelerating/implementing algorithms in C/C++ using parallelization, machine-specific optimizations, using numerical linear algebra concepts
    - Verilog and VHDL for FPGA design
+   - Embedded system design on FPGA's, custom hardware and software integration for application specific optimizations.
+   - Machine learning and artificial nueral networks with Pytorch
 
 - I'm currently working on
-   - Implementation and Analysis of Popular PRNG Algorithms   
-   - Novel high thoroughput PRNG algorithms and implementation (GPGPU or FPGA accelerated)
-   - Using AI to identify optimal racing lines/driver input for racing cars
-   - Long range, high speed, fully autonomous, fixed wing drone for search and rescue applications
+   - My preliminary exam paper: "Computation of Large Language Models"
+   - Expanding upon my MS Thesis -> Accelerating larger artificial nueral networks with more capable FPGAs
+   - Lossy and lossless file compression using artificial nueral networks
+   - 
 - I’m looking to collaborate on ...
-   - Anything with a catchy repo name
+   - Anything with a catchy repo name. Would love to work on optimizing linear algebra routines on projects that are resource-constrained,
   
 - How to reach me ...
    - Email me at cwjohnsonmakes@gmail.com
